@@ -1,7 +1,7 @@
 # <div>
-   <a href="https://github.com/Emerson-Caetano">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/EmersonCaetano">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonCaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonCaetano&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -12,7 +12,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/UCBJayR_hon4qsiSmEcX_d0Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
